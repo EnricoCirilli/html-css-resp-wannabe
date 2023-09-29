@@ -93,6 +93,7 @@ img {
     padding: 3rem 0;
     color: #232946;
     background: #eebbc3;
+    border: red solid 2px;
 }
 
 .steps h2,
@@ -102,6 +103,7 @@ img {
 
 .steps .col {
     width: calc(100% / 3);
+
 }
 
 .steps .col img {
