@@ -1,4 +1,4 @@
-@media screen and (max-width:868px){
+@media screen and (max-width:768px){
     .row{
         display: block;
      }
@@ -12,13 +12,11 @@
         margin: 0 auto;
     
     }
-   .col {
-        width: 50%
-    }
-}
+    } 
+
    
 
-@media screen and (max-width:580px){
+@media screen and (max-width:480px){
 
     .row{
         display: block;
@@ -30,7 +28,7 @@
      
     .col {
         width: 25%;
- 
+        margin: 0 auto;
     
     }
   
